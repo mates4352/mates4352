@@ -7,7 +7,7 @@
 Привет, занимаюсь версткой с конца 2020 года за этот период сверстал много проектов под разные технологии, брал заказы с фриланс бирж  так и верстал для себя учебные проекты 
  ( ![github](https://ru.freepik.com/free-icon/html-5-logo_776092.htm#page=1&query=html&position=9)).
 
-Skills: Js / Html  / Pug / Css / Scss / Less / Bootstrap / REACT / WordPress / Gulp / Bem / PhotoShop / Figma / Pixel Perfect / Mobile First 
+Skills: Js / ![flutter](./images/html5.png) / Pug / Css / Scss / Less / Bootstrap / REACT / WordPress / Gulp / Bem / PhotoShop / Figma / Pixel Perfect / Mobile First 
 
 
 
