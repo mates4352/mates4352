@@ -8,9 +8,9 @@
  ![flutter](./images/html5.png) ![flutter](./images/css.png) ![flutter](./images/js.png) ![flutter](./images/pug.png) ![flutter](./images/scss.png) ![flutter](./images/less.png) ![flutter](./images/gulp.png) ![flutter](./images/bootstrap.png) ![flutter](./images/react.png) ![flutter](./images/material-ui.png) ![flutter](./images/wordpress.png) ![flutter](./images/ps.png) ![flutter](./images/figma.png) 
  ###  Pixel Perfect , Mobile First , Bem 
 
- ### contactS
-[<img src='./images/telegram.png' alt='telegram'>](@SergeySabyrkin)  
-[<img src='./images/Whatsapp.png' alt='Whatsapp'>](+79089077378)  
+ ### CONTACTS
+[<img src='./images/telegram.png' alt='telegram'>](@https://telegram.me/SergeySabyrkin)  [<img src='./images/Whatsapp.png' alt='Whatsapp'>](https://api.whatsapp.com/send?phone=79089077378)  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mates4352)](https://github.com/anuraghazra/github-readme-stats)
 
