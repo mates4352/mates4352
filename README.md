@@ -1,6 +1,9 @@
 
 
 ### Сабуркин Сергей Михайлович
+
+Привет, занимаюсь версткой 
+
 ![Html верстальщик](./images/banner.png)
 
 ### SKILLS
@@ -8,10 +11,9 @@
  ###  Pixel Perfect , Mobile First , Bem 
 
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mates4352)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mates4352)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mates4352=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mates4352&show_icons=true&count_private=true)  
 
