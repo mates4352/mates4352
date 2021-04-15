@@ -9,7 +9,7 @@
  ###  Pixel Perfect , Mobile First , Bem 
 
  ### CONTACTS
-[<img src='./images/telegram.png' alt='telegram'>](@https://telegram.me/SergeySabyrkin)  [<img src='./images/Whatsapp.png' alt='Whatsapp'>](https://api.whatsapp.com/send?phone=79089077378)  
+[<img src='./images/telegram.png' alt='telegram'>](https://telegram.me/SergeySabyrkin)  [<img src='./images/Whatsapp.png' alt='Whatsapp'>](https://api.whatsapp.com/send?phone=79089077378)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mates4352)](https://github.com/anuraghazra/github-readme-stats)
