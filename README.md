@@ -4,11 +4,11 @@
 #### Html верстальщик
 ![Html верстальщик](https://s.4pda.to/YEkxxVAJZWQJQZSyIdA0MTOxrcK4.png)
 
-Привет, занимаюсь версткой с конца 2020 года за этот период сверстал много проектов под разные технологии, брал заказы с фриланс бирж  так и верстал для себя учебные проекты 
- ( ![github](https://ru.freepik.com/free-icon/html-5-logo_776092.htm#page=1&query=html&position=9)).
 
+ ( ![github](./images/banner.png)).
+SKILLS
  ![flutter](./images/html5.png) ![flutter](./images/css.png) ![flutter](./images/js.png) ![flutter](./images/pug.png) ![flutter](./images/scss.png) ![flutter](./images/less.png) ![flutter](./images/bootstrap.png) ![flutter](./images/react.png) ![flutter](./images/material-ui.png) ![flutter](./images/wordpress.png) ![flutter](./images/ps.png) ![flutter](./images/figma.png) 
- / Pixel Perfect / Mobile First / Bem /
+ Pixel Perfect , Mobile First , Bem 
 
 
 
