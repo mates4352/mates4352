@@ -1,14 +1,11 @@
 
 
 ### Сабуркин Сергей Михайлович
-#### Html верстальщик
-![Html верстальщик](https://s.4pda.to/YEkxxVAJZWQJQZSyIdA0MTOxrcK4.png)
+![Html верстальщик](./images/banner.png)
 
-
- ( ![github](./images/banner.png)).
-SKILLS
+### SKILLS
  ![flutter](./images/html5.png) ![flutter](./images/css.png) ![flutter](./images/js.png) ![flutter](./images/pug.png) ![flutter](./images/scss.png) ![flutter](./images/less.png) ![flutter](./images/bootstrap.png) ![flutter](./images/react.png) ![flutter](./images/material-ui.png) ![flutter](./images/wordpress.png) ![flutter](./images/ps.png) ![flutter](./images/figma.png) 
- Pixel Perfect , Mobile First , Bem 
+ ###  Pixel Perfect , Mobile First , Bem 
 
 
 
