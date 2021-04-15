@@ -4,7 +4,7 @@
 ![Html верстальщик](./images/banner.png)
 
 ### SKILLS
- ![flutter](./images/html5.png) ![flutter](./images/css.png) ![flutter](./images/js.png) ![flutter](./images/pug.png) ![flutter](./images/scss.png) ![flutter](./images/less.png) ![flutter](./images/bootstrap.png) ![flutter](./images/react.png) ![flutter](./images/material-ui.png) ![flutter](./images/wordpress.png) ![flutter](./images/ps.png) ![flutter](./images/figma.png) 
+ ![flutter](./images/html5.png) ![flutter](./images/css.png) ![flutter](./images/js.png) ![flutter](./images/pug.png) ![flutter](./images/scss.png) ![flutter](./images/less.png) ![flutter](./images/gulp.png) ![flutter](./images/bootstrap.png) ![flutter](./images/react.png) ![flutter](./images/material-ui.png) ![flutter](./images/wordpress.png) ![flutter](./images/ps.png) ![flutter](./images/figma.png) 
  ###  Pixel Perfect , Mobile First , Bem 
 
 
